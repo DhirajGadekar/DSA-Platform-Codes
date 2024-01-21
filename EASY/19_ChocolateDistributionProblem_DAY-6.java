@@ -1,5 +1,5 @@
 /*
- * 18] Chocolate Distribution problem
+ * 19] Chocolate Distribution problem
  */
 
 class Solution {
