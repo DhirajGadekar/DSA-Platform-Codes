@@ -24,10 +24,7 @@ class Solution {
             }
             i++;
         }
-        if(nums[nums.length-1] == 0){
-            al.add(count);
-        }
-         if(count != 0){
+        if(count != 0){
             ans += (count*(count+1))/2;
         }
         return ans;
